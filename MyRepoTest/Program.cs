@@ -12,6 +12,7 @@ namespace MyRepoTest
         {
             Console.WriteLine("World") ;
         Person person = new Person() { Age=55, Forename = "Smith",  Name="Bob" };
+        Person person2 = new Person() { Age=55, Forename = "Smith",  Name="Bob" };
         }
     }
 }
