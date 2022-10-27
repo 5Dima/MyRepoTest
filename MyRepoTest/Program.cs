@@ -11,6 +11,7 @@ namespace MyRepoTest
         static void Main(string[] args)
         {
             Console.WriteLine("World") ;
+        Person person = new Person() { Age=55, Forename = "Smith",  Name="Bob" };
         }
     }
 }
